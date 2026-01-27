@@ -61,7 +61,7 @@ Copyright 2025 Google LLC
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
-      <version>3.2.3</version>
+      <version>3.5.10</version>
       <exclusions>
         <!-- Exclude the Tomcat dependency -->
         <exclusion>
